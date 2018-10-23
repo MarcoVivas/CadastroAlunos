@@ -7,7 +7,7 @@ package cadastroalunos;
 
 /**
  *
- * @author MARCO
+ * @author MARCO ANTONIO VIVAS
  */
 public class CadastroAlunos {
 
